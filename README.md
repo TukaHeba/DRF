@@ -32,12 +32,12 @@ A simple Django REST Framework (DRF) based Library System that allows managing b
    ```bash
    python -m venv env
    source env/bin/activate  # Windows: env\Scripts\activate
-4.	Install dependencies:
+4. Install dependencies:
    ```bash
-    pip install django djangorestframework
-5.	Run migrations and start the server:
+   pip install django djangorestframework
+5. Run migrations and start the server:
    ```bash
-    python manage.py migrate
-    python manage.py runserver
+   python manage.py migrate
+   python manage.py runserver
 
 You can access postman collection [here](https://documenter.getpostman.com/view/34424205/2sB2qUnjwV).
